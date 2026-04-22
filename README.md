@@ -26,3 +26,8 @@ Analyze sales data using Excel to identify trends, top-performing regions, and c
 
 ## 🚀 Outcome
 Developed foundational data analysis skills and learned how to extract insights using Excel.
+
+## 📸 Project Screenshots
+
+![Sales by Region](sales_by_region.png)
+![Top Customers](top_customers.png)
